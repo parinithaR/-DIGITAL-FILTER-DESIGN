@@ -1,0 +1,4 @@
+Latency: 4 clock cycles (due to 4-tap design)
+.- Resource Utilization: Low (only adders and multipliers).
+- Throughput: 1 sample per clock cycle after pipeline fill
+.- Stability: FIR filters are inherently stable
