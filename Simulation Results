@@ -1,0 +1,4 @@
+ The simulation demonstrates the FIR filter operation where a sequence of input values is fed into the filter.
+ The output corresponds to the convolution of the input with the impulse response defined by the coefficients
+[1, 2, 3, 4].
+ Each output sample is a weighted sum of the current and previous input samples.
